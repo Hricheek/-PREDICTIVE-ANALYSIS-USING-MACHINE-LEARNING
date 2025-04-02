@@ -21,7 +21,7 @@ Hyperparameter Tuning:To further improve the model’s performance, I experiment
 Conclusion:This project was a great learning experience because it covered essential machine learning concepts like data preprocessing, feature engineering, model training, and evaluation. The Titanic dataset was relatively small, but the steps I followed—handling missing data, converting categorical variables, and hyperparameter tuning—are applicable to real-world problems where data is much larger and messier.
 Overall, I found Random Forest to be a powerful classifier, and tuning hyperparameters played an important role in optimizing model performance. I also realized how crucial data preprocessing is; a well-prepared dataset can significantly impact model accuracy. This project reinforced my understanding of classification models, feature engineering, and model evaluation, and I’m looking forward to applying these techniques to more complex datasets in the future!
 
-# Output:
+# Output:![Image](https://github.com/user-attachments/assets/3350410f-3ca6-417b-9559-590c66cf4d88)
 
 
 
